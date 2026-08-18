@@ -1,0 +1,11 @@
+# Danh sách HWID được phép (mỗi dòng 1 HWID).
+# Dòng bắt đầu bằng # là comment.
+# Sau khi sửa, chạy: python tools_sign_license.py sign allowed_hwids.txt
+# rồi push file đã ký lên GitHub raw.
+
+# Ví dụ (thay bằng HWID thật của user):
+# A1B2-C3D4-E5F6-7890-ABCD-EF01-2345-6789
+
+-----BEGIN SIGNATURE-----
+H9PZwK4UMd5Vlrvdfj1cetv9DU3gFpE2zbtNhsVWzBN2oQURhr+lBWUk1TcuonV12FHNHo87r8EPamPiFW00KtsK7cyb7sKEh2WTofB5MmAGzwmy+DVCgnk+wfiFQ3zEaICuNCfijFoHMfBeRZhr/YvJF14owVbHs5zRQCc2bRn6TjtHGhk5D4aBFxsnyzX5jE1j3N7b3YiEflP7D/8YnKgA+/cL4sZOTqHT6oZz7wK68DF4Fbib+e+MK2YRQVtnZW3ygT9XUM5z2yd4iB3GkpJPIocUv5d0O4+OmJfeha6nPZ/XFXXSanz8fjIkDVJLq2VJatDgdTGFvuvF8P4rEw==
+-----END SIGNATURE-----
